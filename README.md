@@ -29,7 +29,7 @@ Let flownet be a module that can be plugged into any code easily.
   ```shell
   python tools/flownet_test.py 
   ```
-* Enjoy that.
+* You can plug it into your code easily.
 ## Related repository
 
 * https://github.com/NVIDIA/flownet2-pytorch
