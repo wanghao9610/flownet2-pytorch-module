@@ -27,7 +27,7 @@ Let flownet be a module that can be plugged into any code easily.
 * Download FlowNet2 pretrained [weight](https://drive.google.com/file/d/1hF8vS6YeHkx3j2pfCeQqqZGwA_PJq_Da/view).
 * Test the installation and compile with following cmd:
   ```shell
-  python flownet_test.py 
+  python tools/flownet_test.py 
   ```
 * Enjoy that.
 ## Related repository
