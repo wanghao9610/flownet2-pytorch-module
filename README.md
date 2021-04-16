@@ -14,7 +14,7 @@ Let flownet be a module that can be plugged into any code easily.
   gcc 5.5,
   python 3.6,
   pytorch-1.6,
-  cuda-10.2  
+  cuda-10.2
   ```
   You may need to install some required packages(e.g. python base packages, pytorch) and configure 
   env(e.g. cuda version matches gcc version and pytorch version) correctly.
