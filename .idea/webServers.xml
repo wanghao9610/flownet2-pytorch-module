@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="75890be8-030d-4727-b2be-ed6748a3116d" name="98">
+        <fileTransfer rootFolder="/data/hwang/proj/flownet" accessType="SFTP" host="172.18.32.98" port="22" sshConfigId="21e2a4c9-a298-4c47-b2a5-fac3ca50638d" sshConfig="hwang@172.18.32.98:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
